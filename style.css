@@ -1,0 +1,32 @@
+body {
+    background-image: url('image/background.jpeg');
+    background-size: cover; /* untuk mengisi seluruh layar */
+    background-repeat: no-repeat; /* untuk mencegah pengulangan gambar */
+}
+body h1 {
+    text-align: center;
+    padding-top: 70px;
+    font-size: 80px;
+    font-family: "Ingrid Darling", sans-serif;
+}
+
+.main {
+    padding-top: 20px;
+}
+
+.main img {
+    width: 500px;
+}
+
+.main h1 {
+    font-size: 50px;
+    font-family: "Ingrid Darling", sans-serif;
+    font-size: 80px;
+}
+
+.footer h3 {
+    text-align: center;
+    padding-top: 50px;
+    font-size: 35px;
+    font-family: "Ingrid Darling", sans-serif;
+}
